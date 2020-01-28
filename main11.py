@@ -12,7 +12,6 @@ def choose_color(last_color):
 
 
 
-
 print('Greetings!')
 play_again = ''
 best_count = sys.maxsize            # the biggest number
